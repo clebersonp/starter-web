@@ -14,6 +14,10 @@ Deployment will be done by maven
 
 Test will be done by Junit
 
+## Contribute
+
+Please fork this repository and then make a pull request to merge
+
 ## Buid
 
 Build will be done by maven
