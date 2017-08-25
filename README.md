@@ -17,3 +17,6 @@ Test will be done by Junit
 ## Buid
 
 Build will be done by maven
+
+### Copyright
+2017 Copyright Pauluci.
