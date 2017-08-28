@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work.
 Adding more texts to test rebase.
+Adding more texts from myfeature branch to test rebase.
 
 ## Purpose
 
