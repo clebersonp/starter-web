@@ -10,7 +10,7 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
-Deployment will be done by maven
+Deployment will be done by maven....
 
 ## Test
 

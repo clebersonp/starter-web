@@ -7,7 +7,7 @@
 
 # THANKS
 
-    Thanks someone to test rebase.
+    Thanks someone to test rebase......
 
 # TECHNOLOGY COLOPHON
 
